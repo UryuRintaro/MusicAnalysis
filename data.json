@@ -1,0 +1,40 @@
+{
+    "アイドゥーミー!":{
+        "id": 1,
+        "bpm": 185,
+        "key": "C Major",
+        "duration": 4.02,
+        "artist": "蓮の空女学院スクールアイドルクラブ",
+        "lyric": "綺羅クリア",
+        "composer": "サクマリョウ",
+        "arranger": "サクマリョウ",
+        "year": 2025,
+        "analysis": false
+    },
+
+    "ハッピー至上主義!":{
+        "id": 2,
+        "bpm": 173,
+        "key": "E♭ Major",
+        "duration": 3.48,
+        "artist": "かほめぐじぇらーと",
+        "lyric": "ろさ",
+        "composer": "友清貴之",
+        "arranger": "EFFY",
+        "year": 2024,
+        "analysis": false
+    },
+
+    "Let's be ONE":{
+        "id": 3,
+        "bpm": 178,
+        "key": "F major",
+        "duration": 3.57,
+        "artist": "Liella!",
+        "lyric": "宮嶋淳子",
+        "composer": "大畑拓哉",
+        "arranger": "大畑拓哉，森悠也(弦編曲)",
+        "year": 2024,
+        "analysis": false
+    }
+}
